@@ -30,3 +30,6 @@ Using the statsmodels.tsa.stattools library, we run the adfuller test by passing
 -[@Dhruva Kuthari](https://github.com/Dhruva-Kuthari)
 
 -[@Ayush Lohia](https://github.com/ayush-kl)
+
+-[@Rahul Mareja](https://github.com/rahulmareja1710)
+
