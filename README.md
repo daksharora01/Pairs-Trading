@@ -23,3 +23,10 @@ Also, a stationary time series means that the pair of stocks is co-integrated an
 # ADF Test implementation in python
 Using the statsmodels.api library, we compute the Ordinary Least Squared regression on the closing price of the commodity pair and store the result of the regression in a variable.
 Using the statsmodels.tsa.stattools library, we run the adfuller test by passing the residual of the regression as the input and store the result of this computation in an array. This array contains values like the t-statistic, p-value, and critical value parameters. 
+
+# Authors
+-[@Daksh Arora](https://github.com/daksharora01)
+
+-[@Dhruva Kuthari](https://github.com/Dhruva-Kuthari)
+
+-[@Ayush Lohia](https://github.com/ayush-kl)
